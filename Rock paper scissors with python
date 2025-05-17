@@ -1,4 +1,3 @@
-# Rock-paper-scissors
 import random
 choices=['rock','paper','scissors']
 user=input('enter choice:')
